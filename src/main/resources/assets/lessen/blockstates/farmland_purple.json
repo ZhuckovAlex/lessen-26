@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=1": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=2": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=3": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=4": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=5": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=6": {
+      "model": "lessen:block/farmland_purple"
+    },
+    "moisture=7": {
+      "model": "lessen:block/farmland_purple_moist"
+    }
+  }
+}

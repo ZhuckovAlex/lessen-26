@@ -1,0 +1,36 @@
+{
+  "item.lessen.fire_pot": "Огненный горшок",
+  "item.lessen.brown_boat": "Коричневая лодка",
+
+  "block.lessen.brown_planks": "Коричневые доски",
+  "block.lessen.brown_sign": "Коричневая табличка",
+  "block.lessen.brown_slab": "Коричневая плита",
+  "block.lessen.brown_door": "Коричневая дверь",
+  "block.lessen.brown_trapdoor": "Коричневый люк",
+  "block.lessen.brown_stairs": "Коричневые ступеньки",
+  "block.lessen.brown_button": "Коричневая кнопка",
+  "block.lessen.brown_pressure_plate": "Коричневая нажимная плита",
+  "block.lessen.brown_fence": "Коричневый забор",
+  "block.lessen.brown_fence_gate": "Коричневая калитка",
+  "block.lessen.brown_log": "Коричневое бревно",
+  "block.lessen.brown_wood": "Коричневая древесина",
+  "block.lessen.brown_leaves": "Коричневая листва",
+  "block.lessen.brown_sapling": "Коричневый саженец",
+  "block.lessen.stripped_brown_log": "Обтёсанное коричневое бревно",
+  "block.lessen.stripped_brown_wood": "Обтёсанная коричневая древесина",
+  "block.lessen.purple_grass_block": "Фиолетовый дёрн",
+  "block.lessen.purple_grass": "Фиолетовая трава",
+  "block.lessen.purple_dirt": "Фиолетовая земля",
+  "block.lessen.farmland_purple": "Фиолетовая пашня",
+  "block.lessen.blue_glass": "Голубое стекло",
+  "block.lessen.brown_stone": "Коричневый камень",
+  "block.lessen.iron_ore": "Железная руда",
+  "block.lessen.golden_ore": "Золотая руда",
+
+  "item.lessen.metal_spider_spawn_egg": "Яйцо призыва металлического паука",
+
+  "entity.lessen.metal_spider_entity": "Металлический паук",
+
+  "itemGroup.mod_items": "Мои предметы",
+  "itemGroup.mod_blocks": "Мои блоки"
+}

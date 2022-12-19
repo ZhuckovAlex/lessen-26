@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "lessen:purple_grass_block"
+  },
+  "result": "lessen:blue_glass",
+  "experience": 3,
+  "cookingtime": 100
+}

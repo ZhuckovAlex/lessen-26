@@ -1,0 +1,14 @@
+{
+  "type": "lessen:concrete_gray",
+  "config": {
+    "top_material": {
+      "Name": "lessen:purple_grass_block"
+    },
+    "under_material": {
+      "Name": "lessen:purple_dirt"
+    },
+    "underwater_material": {
+      "Name": "lessen:purple_dirt"
+    }
+  }
+}

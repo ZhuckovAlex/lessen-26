@@ -1,0 +1,36 @@
+{
+  "item.lessen.fire_pot": "Fire pot",
+  "item.lessen.brown_boat": "Brown boat",
+
+  "block.lessen.brown_planks": "Brown planks",
+  "block.lessen.brown_stone": "Brown stone",
+  "block.lessen.iron_ore": "Iron ore",
+  "block.lessen.golden_ore": "Golden ore",
+  "block.lessen.brown_sign": "Brown sign",
+  "block.lessen.brown_slab": "Brown slab",
+  "block.lessen.brown_door": "Brown door",
+  "block.lessen.brown_trapdoor": "Brown trapdoor",
+  "block.lessen.brown_stairs": "Brown stairs",
+  "block.lessen.brown_button": "Brown button",
+  "block.lessen.brown_fence": "Brown fence",
+  "block.lessen.brown_fence_gate": "Brown fence gate",
+  "block.lessen.brown_pressure_plate": "Brown pressure plate",
+  "block.lessen.brown_log": "Brown log",
+  "block.lessen.brown_wood": "Brown wood",
+  "block.lessen.brown_leaves": "Brown leaves",
+  "block.lessen.brown_sapling": "Brown sapling",
+  "block.lessen.stripped_brown_log": "Stripped brown log",
+  "block.lessen.stripped_brown_wood": "Stripped brown wood",
+  "block.lessen.purple_grass_block": "Purple grass block",
+  "block.lessen.purple_grass": "Purple grass",
+  "block.lessen.purple_dirt": "Purple dirt",
+  "block.lessen.farmland_purple": "Farmland purple",
+  "block.lessen.blue_glass": "Blue glass",
+
+  "item.lessen.metal_spider_spawn_egg": "Metal spider spawn egg",
+
+  "entity.lessen.metal_spider_entity": "Metal spider",
+
+  "itemGroup.mod_items": "My items",
+  "itemGroup.mod_blocks": "My blocks"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lessen:block/brown_slab"
+    },
+    "type=double": {
+      "model": "lessen:block/brown_planks"
+    },
+    "type=top": {
+      "model": "lessen:block/brown_slab_top"
+    }
+  }
+}

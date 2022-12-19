@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lessen:brown_log",
+    "lessen:brown_wood",
+    "lessen:stripped_brown_log",
+    "lessen:stripped_brown_wood"
+  ]
+}

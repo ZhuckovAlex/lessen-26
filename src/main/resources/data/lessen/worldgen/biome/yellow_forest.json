@@ -1,0 +1,57 @@
+{
+  "surface_builder": "lessen:concrete_gray",
+  "depth": 0.025,
+  "scale": 0.05,
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "precipitation": "none",
+  "category": "plains",
+  "player_spawn_friendly": true,
+  "effects": {
+    "sky_color": 16187258,
+    "fog_color": 11513955,
+    "water_color": 16055182,
+    "water_fog_color": 15788328,
+    "grass_color": 16775792,
+    "foliage_color": 16776074
+  },
+  "starts": [
+    "minecraft:village_plains",
+    "minecraft:jungle_pyramid"
+  ],
+  "spawners": {
+    "ambient": [
+      {
+        "type": "minecraft:cat",
+        "weight": 1,
+        "minCount": 0,
+        "maxCount": 0
+      },
+      {
+        "type": "minecraft:chicken",
+        "weight": 2,
+        "minCount": 0,
+        "maxCount": 0
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "lessen:example_tree",
+      "minecraft:bamboo",
+      "minecraft:basalt_pillar",
+      "minecraft:birch_bees_002",
+      "minecraft:flower_default",
+      "minecraft:lake_water",
+      "minecraft:patch_waterlilly",
+      "minecraft:spring_water"
+    ]
+  ]
+}

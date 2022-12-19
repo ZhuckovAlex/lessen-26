@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "lessen:iron_ore"
+  },
+  "result": "minecraft:iron_ingot",
+  "experience": 3,
+  "cookingtime": 100
+}
